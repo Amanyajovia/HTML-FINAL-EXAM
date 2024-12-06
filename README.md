@@ -18,7 +18,7 @@ NO.13: C
 NO.14: A
 NO.15: B
 NO.16: B
-NO.17: 
+NO.17: d
 NO.18: B
 NO.19: B
 NO.20: B
